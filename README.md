@@ -12,8 +12,21 @@
 
 ## Description
 
-This is a project based on developing 
+This is a project based on developing a user interface design for chess game, user can play with AI (Artifical Intelligence Alogirthm for chess game ) as well as two player.
 
+
+## About
+
+Chess is a two-player strategy board game played on a chessboard, a checkerboard with 64 squares arranged in an 8×8 square grid. ... Each player begins with 16 pieces:
+one king, one queen, two rooks, two knights, two bishops, and eight pawns.
+In, our Game you will find out this kind of layout, where row 8 & 7 are of black side, and row 1 & 2 are of white side.
+
+TYPES OF MOVES
+- Pawn Promotion
+- SPECIAL MOVES
+- CASTLING MOVE
+- EnPassant
+![project image](images/chesse.jpg)
 <!-- [Mini App Roadmap](https://docs.google.com/document/d/1TpHGnCcIn6bnD6QrYBVCE3Fy8hYhpX5EnLAdrxudBms/edit?usp=sharing)  -->
 
 ### Languages used
