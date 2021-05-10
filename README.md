@@ -36,7 +36,7 @@ TYPES OF MOVES USED IN PROJECT
 - Third, Principal variation (PV) node is the one where One or more of the moves will return a score greater than alpha (a PV move), but none will return a score greater than or equal to beta.
 - Quiescence search which is an algorithm typically used to extend search at unstable nodes in minimax game trees in game-playing computer programs.
 - Show computer think depth, in which user can see the speed of determining whether a computer is capable of thinking like a human being or not.
-- 
+
 ![project image](images/chesse.jpg)
 <!-- [Mini App Roadmap](https://docs.google.com/document/d/1TpHGnCcIn6bnD6QrYBVCE3Fy8hYhpX5EnLAdrxudBms/edit?usp=sharing)  -->
 
