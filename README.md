@@ -26,12 +26,12 @@ TYPES OF MOVES
 - SPECIAL MOVES
 - CASTLING MOVE
 - EnPassant
+
 ![project image](images/chesse.jpg)
 <!-- [Mini App Roadmap](https://docs.google.com/document/d/1TpHGnCcIn6bnD6QrYBVCE3Fy8hYhpX5EnLAdrxudBms/edit?usp=sharing)  -->
 
 ### Languages used
 - C# .NET
-- 
 
 ### Tools & Technologies 
 - Git bash
