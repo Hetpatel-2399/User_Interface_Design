@@ -1,0 +1,797 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game Checksum="01EE223B3343FD3416CFC048691BC36CDFB50F35AEE3DABFD3739740AC0A2DD4" Version="1.2">
+  <DoNullMovePruning>True</DoNullMovePruning>
+  <DoPrincipleVariation>True</DoPrincipleVariation>
+  <DoQuiescentSearch>False</DoQuiescentSearch>
+  <GameTurn>White</GameTurn>
+  <Board>
+    <Side>
+      <SideType>White</SideType>
+    </Side>
+    <Side>
+      <SideType>Black</SideType>
+    </Side>
+    <Cells>
+      <Cell>
+  <row>1</row>
+  <col>1</col>
+  <piece>
+    <Type>Rook</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>1</row>
+  <col>2</col>
+  <piece>
+    <Type>Knight</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>1</row>
+  <col>3</col>
+  <piece>
+    <Type>Empty</Type>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>1</row>
+  <col>4</col>
+  <piece>
+    <Type>Queen</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>1</row>
+  <col>5</col>
+  <piece>
+    <Type>King</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>1</row>
+  <col>6</col>
+  <piece>
+    <Type>Bishop</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>1</row>
+  <col>7</col>
+  <piece>
+    <Type>Knight</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>1</row>
+  <col>8</col>
+  <piece>
+    <Type>Rook</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>2</row>
+  <col>1</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>2</row>
+  <col>2</col>
+  <piece>
+    <Type>Empty</Type>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>2</row>
+  <col>3</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>4</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>2</row>
+  <col>4</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>2</row>
+  <col>5</col>
+  <piece>
+    <Type>Empty</Type>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>2</row>
+  <col>6</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>2</row>
+  <col>7</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>2</row>
+  <col>8</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>3</row>
+  <col>1</col>
+  <piece>
+    <Type>Bishop</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>1</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>3</row>
+  <col>2</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>1</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>3</row>
+  <col>3</col>
+  <piece>
+    <Type>Empty</Type>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>3</row>
+  <col>4</col>
+</Cell>
+      <Cell>
+  <row>3</row>
+  <col>5</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>1</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>3</row>
+  <col>6</col>
+</Cell>
+      <Cell>
+  <row>3</row>
+  <col>7</col>
+</Cell>
+      <Cell>
+  <row>3</row>
+  <col>8</col>
+</Cell>
+      <Cell>
+  <row>4</row>
+  <col>1</col>
+</Cell>
+      <Cell>
+  <row>4</row>
+  <col>2</col>
+  <piece>
+    <Type>Empty</Type>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>4</row>
+  <col>3</col>
+  <piece>
+    <Type>Empty</Type>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>4</row>
+  <col>4</col>
+</Cell>
+      <Cell>
+  <row>4</row>
+  <col>5</col>
+</Cell>
+      <Cell>
+  <row>4</row>
+  <col>6</col>
+</Cell>
+      <Cell>
+  <row>4</row>
+  <col>7</col>
+</Cell>
+      <Cell>
+  <row>4</row>
+  <col>8</col>
+</Cell>
+      <Cell>
+  <row>5</row>
+  <col>1</col>
+</Cell>
+      <Cell>
+  <row>5</row>
+  <col>2</col>
+  <piece>
+    <Type>Empty</Type>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>5</row>
+  <col>3</col>
+</Cell>
+      <Cell>
+  <row>5</row>
+  <col>4</col>
+</Cell>
+      <Cell>
+  <row>5</row>
+  <col>5</col>
+</Cell>
+      <Cell>
+  <row>5</row>
+  <col>6</col>
+</Cell>
+      <Cell>
+  <row>5</row>
+  <col>7</col>
+</Cell>
+      <Cell>
+  <row>5</row>
+  <col>8</col>
+</Cell>
+      <Cell>
+  <row>6</row>
+  <col>1</col>
+</Cell>
+      <Cell>
+  <row>6</row>
+  <col>2</col>
+</Cell>
+      <Cell>
+  <row>6</row>
+  <col>3</col>
+</Cell>
+      <Cell>
+  <row>6</row>
+  <col>4</col>
+</Cell>
+      <Cell>
+  <row>6</row>
+  <col>5</col>
+</Cell>
+      <Cell>
+  <row>6</row>
+  <col>6</col>
+</Cell>
+      <Cell>
+  <row>6</row>
+  <col>7</col>
+</Cell>
+      <Cell>
+  <row>6</row>
+  <col>8</col>
+</Cell>
+      <Cell>
+  <row>7</row>
+  <col>1</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>7</row>
+  <col>2</col>
+  <piece>
+    <Type>Empty</Type>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>7</row>
+  <col>3</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>7</row>
+  <col>4</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>7</row>
+  <col>5</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>7</row>
+  <col>6</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>7</row>
+  <col>7</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>7</row>
+  <col>8</col>
+  <piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>8</row>
+  <col>1</col>
+  <piece>
+    <Type>Rook</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>8</row>
+  <col>2</col>
+  <piece>
+    <Type>Knight</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>8</row>
+  <col>3</col>
+  <piece>
+    <Type>Bishop</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>8</row>
+  <col>4</col>
+  <piece>
+    <Type>Queen</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>8</row>
+  <col>5</col>
+  <piece>
+    <Type>King</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>8</row>
+  <col>6</col>
+  <piece>
+    <Type>Bishop</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>8</row>
+  <col>7</col>
+  <piece>
+    <Type>Knight</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+      <Cell>
+  <row>8</row>
+  <col>8</col>
+  <piece>
+    <Type>Rook</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>0</Moves>
+  </piece>
+</Cell>
+    </Cells>
+  </Board>
+  <WhitePlayer>
+    <Player Type_x003D_PlayerType="Human">
+  <PlayerSide>
+    <type>White</type>
+  </PlayerSide>
+  <Name>Kon</Name>
+  <TotalThinkTime>4</TotalThinkTime>
+  <ThinkSpanTimeInSeconds>25</ThinkSpanTimeInSeconds>
+</Player>
+  </WhitePlayer>
+  <BlackPlayer>
+    <Player Type_x003D_PlayerType="Human">
+  <PlayerSide>
+    <type>Black</type>
+  </PlayerSide>
+  <Name>Het</Name>
+  <TotalThinkTime>4</TotalThinkTime>
+  <ThinkSpanTimeInSeconds>18</ThinkSpanTimeInSeconds>
+</Player>
+  </BlackPlayer>
+  <MovesHistory>
+    <Move>
+  <StartCell>
+    <row>7</row>
+    <col>2</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </StartCell>
+  <EndCell>
+    <row>5</row>
+    <col>2</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </EndCell>
+  <Piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>2</Moves>
+  </Piece>
+  <Type>NormalMove</Type>
+  <CauseCheck>false</CauseCheck>
+  <Score>0</Score>
+</Move>
+    <Move>
+  <StartCell>
+    <row>2</row>
+    <col>5</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </StartCell>
+  <EndCell>
+    <row>3</row>
+    <col>5</col>
+    <piece>
+      <Type>Pawn</Type>
+      <Side>
+        <type>Black</type>
+      </Side>
+      <Moves>1</Moves>
+    </piece>
+  </EndCell>
+  <Piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>1</Moves>
+  </Piece>
+  <Type>NormalMove</Type>
+  <CauseCheck>false</CauseCheck>
+  <Score>0</Score>
+</Move>
+    <Move>
+  <StartCell>
+    <row>5</row>
+    <col>2</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </StartCell>
+  <EndCell>
+    <row>4</row>
+    <col>2</col>
+    <piece>
+      <Type>Pawn</Type>
+      <Side>
+        <type>White</type>
+      </Side>
+      <Moves>2</Moves>
+    </piece>
+  </EndCell>
+  <Piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>2</Moves>
+  </Piece>
+  <Type>NormalMove</Type>
+  <CauseCheck>false</CauseCheck>
+  <Score>0</Score>
+</Move>
+    <Move>
+  <StartCell>
+    <row>2</row>
+    <col>3</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </StartCell>
+  <EndCell>
+    <row>4</row>
+    <col>3</col>
+    <piece>
+      <Type>Pawn</Type>
+      <Side>
+        <type>Black</type>
+      </Side>
+      <Moves>1</Moves>
+    </piece>
+  </EndCell>
+  <Piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>1</Moves>
+  </Piece>
+  <Type>NormalMove</Type>
+  <CauseCheck>false</CauseCheck>
+  <Score>0</Score>
+</Move>
+    <Move>
+  <StartCell>
+    <row>4</row>
+    <col>2</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </StartCell>
+  <EndCell>
+    <row>3</row>
+    <col>3</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </EndCell>
+  <Piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>4</Moves>
+  </Piece>
+  <Type>EnPassant</Type>
+  <CauseCheck>false</CauseCheck>
+  <EnPassantPiece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>1</Moves>
+  </EnPassantPiece>
+  <Score>0</Score>
+</Move>
+    <Move>
+  <StartCell>
+    <row>2</row>
+    <col>2</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </StartCell>
+  <EndCell>
+    <row>3</row>
+    <col>2</col>
+    <piece>
+      <Type>Pawn</Type>
+      <Side>
+        <type>Black</type>
+      </Side>
+      <Moves>1</Moves>
+    </piece>
+  </EndCell>
+  <Piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>1</Moves>
+  </Piece>
+  <Type>NormalMove</Type>
+  <CauseCheck>false</CauseCheck>
+  <Score>0</Score>
+</Move>
+    <Move>
+  <StartCell>
+    <row>3</row>
+    <col>3</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </StartCell>
+  <EndCell>
+    <row>2</row>
+    <col>3</col>
+    <piece>
+      <Type>Pawn</Type>
+      <Side>
+        <type>White</type>
+      </Side>
+      <Moves>4</Moves>
+    </piece>
+  </EndCell>
+  <Piece>
+    <Type>Pawn</Type>
+    <Side>
+      <type>White</type>
+    </Side>
+    <Moves>4</Moves>
+  </Piece>
+  <CapturedPiece>
+    <Type>Empty</Type>
+    <Moves>0</Moves>
+  </CapturedPiece>
+  <Type>NormalMove</Type>
+  <CauseCheck>false</CauseCheck>
+  <Score>0</Score>
+</Move>
+    <Move>
+  <StartCell>
+    <row>1</row>
+    <col>3</col>
+    <piece>
+      <Type>Empty</Type>
+      <Moves>0</Moves>
+    </piece>
+  </StartCell>
+  <EndCell>
+    <row>3</row>
+    <col>1</col>
+    <piece>
+      <Type>Bishop</Type>
+      <Side>
+        <type>Black</type>
+      </Side>
+      <Moves>1</Moves>
+    </piece>
+  </EndCell>
+  <Piece>
+    <Type>Bishop</Type>
+    <Side>
+      <type>Black</type>
+    </Side>
+    <Moves>1</Moves>
+  </Piece>
+  <Type>NormalMove</Type>
+  <CauseCheck>false</CauseCheck>
+  <Score>0</Score>
+</Move>
+  </MovesHistory>
+</Game>
