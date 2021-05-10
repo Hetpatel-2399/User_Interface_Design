@@ -29,7 +29,7 @@ TYPES OF MOVES USED IN PROJECT
 - CASTLING MOVE
 - EnPassant
 
-##Alogrithm
+## Alogrithm
 
 - The Computer option will have AI setting, since we are using the ALPHA-BETA ALGORITHM, it is use for the movement of the chess pieces. 
 - Secondly, using null-move pruning it is a technique used to enhance the speed of the alpha-beta pruning algorithm.
